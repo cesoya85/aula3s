@@ -12,6 +12,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		System.out.println("Ola World");
 		System.out.println("Continuando");
+		new Message().hello();
 
 	}
 
